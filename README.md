@@ -75,7 +75,7 @@ trailingSlash: true,
 
 ## Technologies Used
 
-- **Next.js 14** - React framework
+- **Next.js 15** - React framework
 - **React 18** - UI library
 - **Tailwind CSS** - Styling
 - **TypeScript** - Type safety
